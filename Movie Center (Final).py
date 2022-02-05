@@ -2,7 +2,7 @@
 print("______________________________________****Movies Centre****____________________________________")
 print()
 print()
-print("Hello, I am the driver of the MOVIE CENTER , as we know that humans are very much interested in movies so lets start making a database of the movies in which you just give the commands and I will be helping you.")
+print("Hello, I am the driver of the MOVIE_RATER , as we know that humans are very much interested in movies so lets start making a database of the movies in which you just give the commands and I will be helping you.")
 
 print("")
 
